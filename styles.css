@@ -63,6 +63,20 @@ section h2{
     margin: 0 auto;
 }
 
+@media (max-width: 768px) {
+    .sobre {
+        width: 80%; /* Aumenta a largura para telas menores */
+        padding: 10px; /* Diminui o padding para maior aproveitamento do espaço */
+    }
+}
+
+@media (max-width: 480px) {
+    .sobre {
+        width: 90%; /* Ajusta ainda mais a largura para telas muito pequenas */
+        font-size: 14px; /* Diminui o tamanho da fonte para melhor legibilidade */
+    }
+}
+
 .habilidade {
     text-align: center;
     color: #ffffff;
