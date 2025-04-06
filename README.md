@@ -30,7 +30,7 @@ Sou proativo, curioso e apaixonado por aprender e criar soluções que facilitem
 
 ## 🧠 Habilidades Técnicas
 
-- Linguagens: PHP, JavaScript, HTML, CSS, SQL
+- Linguagens: PHP, HTML, CSS, SQL
 - Banco de dados: SQL Server, MySQL
 - Em processo de aprendizado de ferramentas como: Git, Sentry e Mattermost
 - Frameworks: (em aprendizado)
@@ -41,7 +41,7 @@ Sou proativo, curioso e apaixonado por aprender e criar soluções que facilitem
 ## 🚀 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/davivieiraa)
-- Email: **davivieiralm02@hotmail.com**
+- [Email](mailto:davivieiralm02@hotmail.com)
 
 ---
 
