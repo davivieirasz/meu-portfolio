@@ -12,7 +12,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela Uniasselvi e at
 - Lançamento de notas fiscais
 - Gestão de estoque (baixas e entradas)
 - Treinamento e acompanhamento de usuários
-- Manutenção de computadores
 
 Sou proativo, curioso e apaixonado por aprender e criar soluções que facilitem o dia a dia das pessoas.
 
@@ -23,7 +22,6 @@ Sou proativo, curioso e apaixonado por aprender e criar soluções que facilitem
 - Me tornar um **desenvolvedor PHP** com foco exclusivo em **back-end**
 - Aprimorar continuamente meus conhecimentos em **PHP**, utilizando boas práticas e frameworks modernos
 - Trabalhar com **desenvolvimento web back-end**, entregando soluções eficientes e escaláveis
-- Desenvolver sistemas **SaaS** para pequenas empresas, com foco em performance e usabilidade
 - Atuar com **desenvolvimento PHP** e **automação de processos**
 
 ---
